@@ -1,0 +1,39 @@
+
+
+
+.btn{
+    width: 200px;
+    height: 40px;
+   
+}
+body{
+    background-color: bisque;
+}
+.b{
+    background-color: white;
+}
+.box{
+    display:grid;
+    
+    
+}
+
+
+H1{
+    justify-content: center;
+    text-align: center;
+}
+.btn{
+   margin: auto;
+   width: 165px;
+   height: 40px;
+}
+.btn2{
+    margin: auto;
+    width: 200px;
+    height: 80px;
+}
+
+
+
+
